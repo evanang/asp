@@ -1,0 +1,14 @@
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\Binus.SampleWebAPILite.Model.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\Binus.SampleWebAPILite.Model.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\MongoDB.Bson.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\MongoDB.Driver.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\MongoDB.Bson.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\MongoDB.Driver.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\MongoDB.Driver.Core.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\obj\Release\Binus.SampleWebAPILite.Model.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.WebAPI\Binus.SampleWebAPI.Model\obj\Release\Binus.SampleWebAPILite.Model.pdb

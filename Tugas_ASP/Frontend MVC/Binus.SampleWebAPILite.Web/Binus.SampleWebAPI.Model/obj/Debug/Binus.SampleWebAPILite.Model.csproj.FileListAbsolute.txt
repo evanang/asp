@@ -1,0 +1,64 @@
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.pdb
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csprojResolveAssemblyReference.cache
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.WebAPI.Lite.dll
+C:\Users\Hendry\Documents\Visual Studio 2015\Projects\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.WebAPI.Model.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.pdb
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.WebAPI.Model.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.xml
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csprojResolveAssemblyReference.cache
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.dll
+D:\novi.steven\Desktop\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.pdb
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.pdb
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.WebAPI.Model.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csprojResolveAssemblyReference.cache
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.dll
+D:\Training\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.pdb
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.pdb
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.WebAPI.Model.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csprojAssemblyReference.cache
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csproj.CopyComplete
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.dll
+C:\Users\Steph\#Binus\IT_Div\trainingASP\Tugas ASP 2021\Training_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.pdb
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.dll
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.pdb
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.dll
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.dll
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.xml
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.xml
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csproj.CoreCompileInputs.cache
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csproj.CopyComplete
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.dll
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.pdb
+D:\Daniel_File\Training_IT_DIV\IT_Bootcamp\Day3(MVC)\Project\Tugas_ASP\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csprojAssemblyReference.cache
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.dll
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Binus.SampleWebAPILite.Model.pdb
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.dll
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\MongoDB.Bson.xml
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csprojAssemblyReference.cache
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.csproj.CopyComplete
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.dll
+C:\Users\user\source\repos\itdivbootcamp-mvc\Frontend MVC\Binus.SampleWebAPILite.Web\Binus.SampleWebAPI.Model\obj\Debug\Binus.SampleWebAPILite.Model.pdb
